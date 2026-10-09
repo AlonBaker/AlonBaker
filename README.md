@@ -40,8 +40,7 @@ const alon = {
 | --- | --- |
 | 🧠 [**Grovvve**](https://grovvve.com) | Therapy practice platform with scheduling, payments, smart notes, and voice transcription |
 | 📖 [**BookWormia**](https://bookwormia.app) | A virtual library to discover, track, and review books |
-| 🏀 [**MaimoHoops**](https://maimohoops.vercel.app) | Live scores for a basketball tournament (~150 visitors on game day) |
-| 🔍 [**OCR Tool**](https://github.com/AlonBaker/ocr-tool) | Pulls text off lecture-slide photos so I never pay for an OCR subscription again |
+| 🔍 [**Campus2Care**](https://volunteers.campus2care.org) | Volunteer Platform for Campus2Care |
 
 ## 🧰 Tech I reach for
 
@@ -51,12 +50,14 @@ const alon = {
 
 ## 🏆 Fun facts
 
-- 🥇 Won the **2022 KoHack Hackathon** as team lead
 - 🎓 3.96 GPA and Dean's List, while also teaching three AP courses
+- Triplet
+- Biker
+- Teach 3 AP Exams
 - 🛡️ Google Cybersecurity Professional Certificate holder
 - 🤖 I use AI agents to attack my own apps, then a second set of agents to fact-check the first ones
 
-## 📊 GitHub stats
+## 📊 GitHub public repo stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlonBaker&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -70,5 +71,5 @@ const alon = {
 ---
 
 <div align="center">
-  <sub>Always happy to chat about nonprofit tech, security, or your next hackathon idea. Say hi! ✌️</sub>
+  <sub>Always happy to chat about nonprofit tech, security, or your next idea. Say hi! ✌️</sub>
 </div>
